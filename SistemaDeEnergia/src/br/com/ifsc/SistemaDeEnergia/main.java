@@ -1,9 +1,10 @@
 package br.com.ifsc.SistemaDeEnergia;
 
-public class main {
+public class main extends Cliente{
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println(" " +nome);
+		
 
 	}
 
