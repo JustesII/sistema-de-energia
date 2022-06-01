@@ -8,10 +8,4 @@ public class Endereco {
 	private String cidade;
 	private String estado;
 	
-	public String toString() {
-		String texto = "";
-		texto = "cidade: " +cidade;
-		return texto;
-		
-	}
 }
